@@ -1,6 +1,6 @@
 # Boolean2 [![[version]](https://badge.fury.io/rb/boolean2.svg)](http://badge.fury.io/rb/boolean2)  [![[travis]](https://travis-ci.org/janlelis/boolean2.png)](https://travis-ci.org/janlelis/boolean2)
 
-Next time before you want to define a global `Boolean` class, consider using this bare-bones approach instead.
+Next time before you define a global `Boolean` constant, which might break other libraries, consider to just go with  this bare-bones approach instead.
 
 ## Setup
 
